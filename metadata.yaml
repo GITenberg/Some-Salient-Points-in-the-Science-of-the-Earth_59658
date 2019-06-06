@@ -1,0 +1,29 @@
+_repo: Some-Salient-Points-in-the-Science-of-the-Earth_59658
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Dawson, John William, Sir
+    aliases:
+    - Dawson, Sir J. William
+    - Dawson, Sir John William
+    - Dawson, J. W. (John William), Sir
+    - Dawson, William, Sir
+    - Dawson, J. William (John William), Sir
+    birthdate: 1820
+    deathdate: 1899
+    gutenberg_agent_id: '40426'
+    url: http://www.gutenberg.org/2009/agents/40426
+    wikipedia: http://en.wikipedia.org/wiki/John_William_Dawson
+description: ''
+gutenberg_issued: '2019-06-02'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '59658'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: Some Salient Points in the Science of the Earth
+url: http://www.gutenberg.org/ebooks/59658
